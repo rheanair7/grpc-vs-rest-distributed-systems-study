@@ -179,9 +179,4 @@ management acting as secondary influences.
 - Test larger payload sizes and streaming strategies
 - Compare additional RPC frameworks
 
----
 
-## Author
-
-Developed as an independent systems project to study RPC performance in
-distributed environments.
